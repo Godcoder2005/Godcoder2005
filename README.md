@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Godcoder2005
+- 👋 Hi, I’m Akshithkumar
 - 👀 I’m interested in coding stuff
 - 🌱 I’m currently learning Web dev 
 - 💞️ I’m looking to collaborate on any company as a good intern 
