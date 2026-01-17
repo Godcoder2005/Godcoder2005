@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akshithkumar
 - 👀 I’m interested in coding stuff
-- 🌱 I’m currently learning Web dev 
+- 🌱 I’m currently learning Gen - Ai 
 - 💞️ I’m looking to collaborate on any company as a good intern 
 - 📫 How to reach me  This is my mail : 202311059@diu.iiitvadodara.ac.in
